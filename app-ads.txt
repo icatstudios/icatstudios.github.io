@@ -89,3 +89,7 @@ rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 
 -- Index Exchange entries
 indexexchange.com, 195530, DIRECT, 50b1c356f2c5c8fc
+
+-- OpenX entries
+openx.com, 545589118, DIRECT, 6a698e2ec38604c6
+
