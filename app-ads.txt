@@ -86,3 +86,6 @@ pubmatic.com, 158853, RESELLER, 5d62403b186f2ace
 
 -- Rubicon entries
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
+
+-- Index Exchange entries
+indexexchange.com, 195530, DIRECT, 50b1c356f2c5c8fc
