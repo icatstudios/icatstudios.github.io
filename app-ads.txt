@@ -216,3 +216,6 @@ districtm.io, 102098, RESELLER, 3fd707be9c4527c3
 e-planning.net, e1028cf4f3301b90, RESELLER, c1ba615865ed87b2
 se7en.es, 212432, RESELLER, 064bc410192443d8
 prequel.tv, 513, RESELLER
+
+// PP22
+google.com, , DIRECT, f08c47fec0942fa0
