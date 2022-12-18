@@ -218,4 +218,4 @@ se7en.es, 212432, RESELLER, 064bc410192443d8
 prequel.tv, 513, RESELLER
 
 -- Facebook
-facebook.com, 211412110064838, DIRECT, c3e20eee3f780d68
+facebook.com, 515937622268469, RESELLER, c3e20eee3f780d68
