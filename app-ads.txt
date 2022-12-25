@@ -337,3 +337,6 @@ videoheroes.tv, 212459, RESELLER, 064bc410192443d8
 webeyemob.com, 70107, RESELLER
 xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
 yahoo.com, 58935, RESELLER, e1a5b5b6e3255540
+
+-- Pubmatic
+pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
