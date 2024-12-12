@@ -248,7 +248,7 @@ freewheel.tv, 1235183, RESELLER
 freewheel.tv, 1235279, RESELLER
 
 -- Facebook
-facebook.com, 515937622268469, RESELLER, c3e20eee3f780d68
+facebook.com, 515937622268469, DIRECT, c3e20eee3f780d68
 
 -- Tapjoy
 tapjoy.com, 5e113b63b0584014b34898707bab25b2, DIRECT, 29e595b1aeb5904d
