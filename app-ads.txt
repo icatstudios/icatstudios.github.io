@@ -275,8 +275,16 @@ yahoo.com, 59674, RESELLER, e1a5b5b6e3255540
 freewheel.tv, 1235183, RESELLER
 freewheel.tv, 1235279, RESELLER
 
--- Facebook
-facebook.com, 515937622268469, DIRECT, c3e20eee3f780d68
+-- Facebook Meta Audience Network
+-- facebook.com, 515937622268469, DIRECT, c3e20eee3f780d68
+
+-- PP25
+facebook.com, 496718965928782, DIRECT, c3e20eee3f780d68
+-- PP20
+facebook.com, 1116458933494433, DIRECT, c3e20eee3f780d68
+
+
+
 
 -- Tapjoy
 tapjoy.com, 5e113b63b0584014b34898707bab25b2, DIRECT, 29e595b1aeb5904d
