@@ -2,11 +2,8 @@ google.com, pub-4725615581275572, DIRECT, f08c47fec0942fa0
 google.com, pub-2111641843770755, DIRECT, f08c47fec0942fa0
 
 -- Facebook Meta Audience Network
--- facebook.com, 515937622268469, DIRECT, c3e20eee3f780d68
--- PP25
-facebook.com, 496718965928782, DIRECT, c3e20eee3f780d68
--- PP20
-facebook.com, 1116458933494433, DIRECT, c3e20eee3f780d68
+facebook.com, 515937622268469, RESELLER, c3e20eee3f780d68
+
 
 -- media.net entries
 media.net, 8CU268JOS, DIRECT
