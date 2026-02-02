@@ -4,33 +4,40 @@
 iCatStudios is a small group of developers trying to bring useful, well-designed, user-friendly apps and games since its foundation. 
 
 
-## Player Potentials
+## Potentials
 
-![Player Potentials 20](https://raw.githubusercontent.com/webwarrior06/icatstudios/master/player_potentials_store.png)
+![Potentials](https://icatbucket.s3.eu-central-1.amazonaws.com/icat/icons/potentials_icon_github.png)
 
-Player Potentials 19/20 is a FIFA Football Game Career Mode companion app that provides following;
+Potentials: FC26 Career Mode is a FC Football Game Career Mode companion app that provides following;
 
 Filter players easily by their Overall Rating, Potential, Rating, Age, Positions, Nationality, League, Club, Contract and Skill. 
 Analyze players in detail. It is super easy to use. This app will be your best guide during the transfer seasons.
 
-You can also view easily;
+Discover player potentials and build your dream squad for FC 26 Career Mode. This companion app helps you find the best talents, analyze detailed stats, and plan your transfers with precision.
 
-- Wonderkids,
-- Hidden Gems,
-- Highest Growths Players,
-- Free Agent Players
+The app covers data from 2018 to 2026, and is constantly updated in sync with the latest FC 26 game updates.
 
+– Find hidden gems, top growth players, wonderkids, and free agents
+– Use filters like overall rating, potential, age, nationality, preferred foot, traits, and more
+– Explore detailed player profiles including contract, value, wage, work rates, skills, and stats
+– View Play Styles and Player Roles to understand tactical fit
+– Discover Similar Players based on performance and attributes
+– Build and customize squads with the Squad Builder module
+– Choose formations, kits, pitch layouts, and share your team
+– Switch between male and female players using the Gender filter
+– Access ICON players and teams alongside modern stars
+– Add favorite players to your watchlist and track development
+– Test your knowledge with the Player Quiz across major leagues
 
-You are able to add your favorite players to the list for later.
+This app is designed for all football fans, from Career Mode managers to football data lovers. It’s fast, easy to use, and always up to date with the latest game data.
 
-In Player Details page can display very detailed data like Player Photo, Player Full Name, Preferred Positions, Preferred Foot, Date Of Birth, Height, Weight, Contract End Date, Wage, Value, Release Clause, Specialties, Traits, Weak Foot, Skill Moves, Work Rates, Total Stats and Player Ratings Per Positions and more.
+Download now and take your FC 26 Career Mode to the next level.
 
-The database of the application is constantly updated with 2020 game. If you want to access the latest game data of 2020 game, follow our application's updates or check the Databases menu.
-
-If you enjoy playing 2020 career mode or FUT and also love football, this app is absolutely for you.
+Disclaimer:
+This is an unofficial companion app for the FC 26 game. It is not affiliated with EA Sports or FIFA. All player data is derived from in-game statistics and is for informational purposes only.
 
 **Contact Us**
 
 If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
 
-icatstudios@outlook.com
+support@icatstudios.com
