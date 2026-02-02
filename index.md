@@ -18,16 +18,26 @@ Discover player potentials and build your dream squad for FC 26 Career Mode. Thi
 The app covers data from 2018 to 2026, and is constantly updated in sync with the latest FC 26 game updates.
 
 – Find hidden gems, top growth players, wonderkids, and free agents
+
 – Use filters like overall rating, potential, age, nationality, preferred foot, traits, and more
+
 – Explore detailed player profiles including contract, value, wage, work rates, skills, and stats
+
 – View Play Styles and Player Roles to understand tactical fit
+
 – Discover Similar Players based on performance and attributes
+
 – Build and customize squads with the Squad Builder module
+
 – Choose formations, kits, pitch layouts, and share your team
+
 – Switch between male and female players using the Gender filter
+
 – Access ICON players and teams alongside modern stars
+
 – Add favorite players to your watchlist and track development
-– Test your knowledge with the Player Quiz across major leagues
+
+– Compare Players
 
 This app is designed for all football fans, from Career Mode managers to football data lovers. It’s fast, easy to use, and always up to date with the latest game data.
 
